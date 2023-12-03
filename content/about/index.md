@@ -1,6 +1,6 @@
 ---
 title: I'm brutehex
-description: Sample article showcasing basic Markdown syntax and formatting for HTML.
+description: About me.
 heroStyle: thumbAndBackground
 draft: false
 showDate: false
