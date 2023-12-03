@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brutehex</title>
+    <link>https://brutehex.github.io/en/</link>
+    <description>Recent content on brutehex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://brutehex.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whoami</title>
+      <link>https://brutehex.github.io/en/whoami/</link>
+      <pubDate>Sat, 02 Dec 2023 12:57:17 +0100</pubDate>
+      <guid>https://brutehex.github.io/en/whoami/</guid>
+      <description>Hi</description>
+    </item>
+  </channel>
+</rss>

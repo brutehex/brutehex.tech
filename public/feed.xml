@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+
+        <title>My New Hugo Site</title>
+        <link>https://brutehex.github.io/</link>
+        <description>Recent content - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        
+        
+        
+        
+        
+        <atom:link href="https://brutehex.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
