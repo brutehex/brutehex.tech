@@ -39,10 +39,10 @@ Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sap
 You can use the following syntax to include an image. Path of the image should be relative to the `index.md` file.
 
 ```markdown
-![Fish](img/fish.webp)
+![Fish](img/fish.jpg)
 ```
 
-![Fish](img/fish.webp)
+![Fish](img/fish.jpg)
 
 You can also include image from external sources.
 
