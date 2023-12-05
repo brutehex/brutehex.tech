@@ -7,6 +7,7 @@ showDate: false
 showDateUpdated: false
 showReadingTime: false
 showWordCount: false
+showEdit: false
 ---
 
 This is my personal website where I share stuff I find interesting. 
