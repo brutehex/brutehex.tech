@@ -86,4 +86,4 @@ consectetur adipiscing elit.
 
 {{< /timeline >}}
 
-{{< chat test-brutehex >}}
+{{< chat test-post >}}
