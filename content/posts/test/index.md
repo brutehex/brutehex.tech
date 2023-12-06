@@ -6,8 +6,6 @@ heroStyle: big
 draft: false
 showViews: true
 showLikes: true
-showComments: true
-
 ---
 
 {{< typeit 
