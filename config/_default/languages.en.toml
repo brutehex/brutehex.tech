@@ -11,12 +11,12 @@ title = "[brutehex]"
   # logo = "img/fish.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "ⓒ Copy, _right?_ :thinking_face:"
+  copyright = "© 2023 brutehex"
 
 [author]
   name = "brutehex"
   image = "img/logo.jpg"
-  headline = "Average nerd "
+  headline = "Average nerd"
   # bio = "A little bit about you"
   links = [
     { email = "mailto:contact@brutehex.tech" },

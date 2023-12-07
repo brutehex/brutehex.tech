@@ -4,8 +4,6 @@ date: 2023-12-04
 description: Simple test article
 heroStyle: big
 draft: false
-showViews: true
-showLikes: true
 ---
 
 {{< typeit 
