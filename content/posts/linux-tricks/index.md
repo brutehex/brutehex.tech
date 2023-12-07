@@ -86,7 +86,7 @@ Add `v` to any of these to make them verbose
 
 - `tar cf output.tar file1 file2` -> [c]reate archive and write it to [f]ile
 - `tar czf output.tar.gz file1 file2` -> [c]reate g[z]ipped compressed archive and write it to [f]ile
-- `tar xf source.tar` -> E[x]tract archive [f]ile into current directory
+- `tar xf source.tar` -> Extract archive [f]ile into current directory
 - `tar tf source.tar` -> Lis[t] contents of tar [f]ile
 - `zip -r archive.zip file1 directory1` -> Creates archive with specified files and directories 
 - `zip -r -[0-9] archive.zip file1 directory1` -> Creates archive with specific compression level (0 is lowest, 9 is highest)
