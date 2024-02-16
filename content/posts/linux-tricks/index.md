@@ -72,6 +72,9 @@ I've made this list for my own reference, but who knows, you might learn somethi
 - `parted /dev/sdX` -> Disk partitioning tool
 - `findmnt` -> Displays info about mounted file systems
 - `sudo mkfs.ext4 /dev/sdX` -> Creates ext4 filesystem. Replace `ext4` with filesystem of choice
+
+---
+
 #### LVM
 - `pvdisplay` -> Display info about physical volumes
 - `vgdisplay` -> Display info about volume groups
@@ -79,6 +82,8 @@ I've made this list for my own reference, but who knows, you might learn somethi
 - `sudo lvcreate -L 10G -n lv_name vg_name` -> Create 10GB logical volume
 - `sudo lvextend -L +10G /dev/vg_name/lv_name` -> Extend logical volume by 5GB
 - `sudo lvreduce -L -3G /dev/vg_name/lv_name` -> Shrink logical volume by 3GB
+
+---
 
 ###  Archives and compression
 
@@ -94,6 +99,7 @@ Add `v` to any of these to make them verbose
 - `unzip archive.zip` -> Extracts from archive into current directory
 - `unzip -l archive.zip` -> Lists contents of an archive. Does not extract anything
 
+---
 
 If you want to suggest any commands, put them in the comments, I would love to see them.
 
