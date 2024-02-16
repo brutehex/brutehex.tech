@@ -16,7 +16,7 @@ title = "[brutehex]"
 [author]
   name = "brutehex"
   image = "img/logo.jpg"
-  headline = "Busy making broken things work or breaking things that already work well"
+  headline = "Busy making broken things work and breaking things that already work"
   # bio = ""
   links = [
     { email = "mailto:contact@brutehex.tech" },
